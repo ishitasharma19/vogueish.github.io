@@ -1,0 +1,19 @@
+.component2-container {
+  display: flex;
+  position: relative;
+}
+.component2-text {
+  color: var(--dl-color-gray-black80);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  margin-right: 4px;
+  letter-spacing: 0.1em;
+}
+.component2-root-class-name {
+  top: -20px;
+  left: 34px;
+  width: var(--dl-size-size-xxlarge);
+  position: absolute;
+}

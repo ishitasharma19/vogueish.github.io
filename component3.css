@@ -1,0 +1,18 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-text {
+  position: relative;
+  max-width: 450px;
+}
+.component3-root-class-name {
+  top: -7px;
+  left: 37px;
+  position: absolute;
+}
+@media(max-width: 991px) {
+  .component3-text {
+    text-align: center;
+  }
+}

@@ -1,0 +1,13 @@
+.home-container {
+  display: flex;
+  position: relative;
+}
+.home-home {
+  position: relative;
+  font-style: normal;
+}
+.home-root-class-name {
+  top: 23px;
+  left: 819px;
+  position: absolute;
+}

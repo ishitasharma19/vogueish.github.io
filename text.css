@@ -1,0 +1,13 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+.text-text {
+  color: var(--dl-color-gray-black50);
+  font-size: 12px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 600;
+  line-height: 18px;
+  text-transform: uppercase;
+}

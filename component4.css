@@ -1,0 +1,10 @@
+.component4-container {
+  display: flex;
+  position: relative;
+}
+.component4-text {
+  font-size: 10px;
+  line-height: 20px;
+  letter-spacing: 1em;
+  text-transform: uppercase;
+}

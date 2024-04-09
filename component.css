@@ -1,0 +1,12 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-text {
+  position: relative;
+}
+.app-component-root-class-name {
+  top: 23px;
+  left: 933px;
+  position: absolute;
+}

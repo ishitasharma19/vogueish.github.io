@@ -1,0 +1,23 @@
+.text1-container {
+  display: flex;
+  position: relative;
+}
+.text1-text {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 267px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Jost;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .text1-text {
+    width: auto;
+  }
+}
